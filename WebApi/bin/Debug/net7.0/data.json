@@ -1,0 +1,11 @@
+[{
+  "id": 1,
+  "owner": {
+    "id": 2,
+    "userName": "alina",
+    "password": "gadbjerg42"
+  },
+  "title": "How is your day?",
+  "articleContent": "string string string string string"
+}
+]

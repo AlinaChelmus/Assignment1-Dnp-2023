@@ -1,0 +1,17 @@
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\bin\Debug\net7.0\FileData.deps.json
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\bin\Debug\net7.0\FileData.dll
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\bin\Debug\net7.0\FileData.pdb
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\bin\Debug\net7.0\Application.dll
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\bin\Debug\net7.0\Shared.dll
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\bin\Debug\net7.0\Application.pdb
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\bin\Debug\net7.0\Shared.pdb
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\obj\Debug\net7.0\FileData.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\obj\Debug\net7.0\FileData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\obj\Debug\net7.0\FileData.AssemblyInfoInputs.cache
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\obj\Debug\net7.0\FileData.AssemblyInfo.cs
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\obj\Debug\net7.0\FileData.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\obj\Debug\net7.0\FileData.csproj.CopyComplete
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\obj\Debug\net7.0\FileData.dll
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\obj\Debug\net7.0\refint\FileData.dll
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\obj\Debug\net7.0\FileData.pdb
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\FileData\obj\Debug\net7.0\ref\FileData.dll

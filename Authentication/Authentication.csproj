@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Application\Application.csproj" />
+      <ProjectReference Include="..\HTTPClient\HTTPClient.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="7.0.1" />
+      <PackageReference Include="Microsoft.JSInterop" Version="7.0.2" />
+      <PackageReference Include="Microsoft.NET.Sdk.BlazorWebAssembly.AOT" Version="6.0.0-preview.5.21301.17" />
+    </ItemGroup>
+
+</Project>

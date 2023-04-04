@@ -1,0 +1,72 @@
+﻿@page "/CreateUser"
+@using Microsoft.AspNetCore.Components.Authorization
+@using Authentication
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject NavigationManager NavigationManager
+
+<h3>CreateUser</h3>
+
+<div class="whole">
+
+    <AuthorizeView>
+        <NotAuthorized>
+            <div class="box">
+                <h1>Login</h1>
+                <input type="text" username="" placeholder="User Name" @bind-value="userName">
+                <input type="password" name="" placeholder="Password"@bind-value="Password">
+                <input type="submit" name="" value="Login" @onclick="PerformLogin">
+                <div style="color: red">@ErrorMessage</div>
+            </div>
+        </NotAuthorized>
+        
+        <Authorized>
+            <div class="box">
+                <h1>Logout</h1>
+                <input type="submit" name="" value="Logout" @onclick="PerformLogout">
+            </div>
+        </Authorized>
+  
+    </AuthorizeView>
+</div>
+
+
+
+@code {
+    private string userName;
+    private string Password;
+    private string ErrorMessage;
+
+    public async Task PerformLogin()
+    {
+        ErrorMessage = "";
+        try
+        {
+            ((CustomAuthenticationStateProvider) AuthenticationStateProvider).ValidateLogin(userName, Password);
+            userName = "";
+            Password = "";
+            NavigationManager.NavigateTo("/forums");
+
+        }
+        catch (Exception e)
+        {
+            ErrorMessage = e.Message;
+        }
+    }
+
+    public async Task PerformLogout()
+    {
+        ErrorMessage = "";
+        userName = "";
+        Password = "";
+        try
+        {
+            ((CustomAuthenticationStateProvider) AuthenticationStateProvider).Logout();
+            NavigationManager.NavigateTo("/");
+        }
+        catch (Exception e)
+        {
+
+        }
+    }
+
+}

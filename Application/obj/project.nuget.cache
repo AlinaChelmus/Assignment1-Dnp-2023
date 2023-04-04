@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "ufOW86IXMNA0bMnZLyDV7U4WeqxZlozPKwn3H/Edh8bVC4hNtU6AfTvnZsKczqgt7YHD8bra3jfvXHBXbkuc9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alina\\OneDrive\\Skrivebord\\Via- dnp,ads,nes\\dnp\\Assignment\\Assignment1-Dnp\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.1\\microsoft.aspnetcore.authorization.7.0.1.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.1\\microsoft.aspnetcore.components.7.0.1.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.1\\microsoft.aspnetcore.components.analyzers.7.0.1.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\7.0.1\\microsoft.aspnetcore.components.authorization.7.0.1.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.1\\microsoft.aspnetcore.metadata.7.0.1.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\alina\\.nuget\\packages\\microsoft.net.sdk.blazorwebassembly.aot\\6.0.0-preview.5.21301.17\\microsoft.net.sdk.blazorwebassembly.aot.6.0.0-preview.5.21301.17.nupkg.sha512"
+  ],
+  "logs": []
+}

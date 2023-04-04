@@ -1,0 +1,17 @@
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\bin\Debug\net7.0\HTTPClient.deps.json
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\bin\Debug\net7.0\HTTPClient.dll
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\bin\Debug\net7.0\HTTPClient.pdb
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\bin\Debug\net7.0\Application.dll
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\bin\Debug\net7.0\Shared.dll
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\bin\Debug\net7.0\Application.pdb
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\bin\Debug\net7.0\Shared.pdb
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\obj\Debug\net7.0\HTTPClient.csproj.AssemblyReference.cache
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\obj\Debug\net7.0\HTTPClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\obj\Debug\net7.0\HTTPClient.AssemblyInfoInputs.cache
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\obj\Debug\net7.0\HTTPClient.AssemblyInfo.cs
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\obj\Debug\net7.0\HTTPClient.csproj.CoreCompileInputs.cache
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\obj\Debug\net7.0\HTTPClient.csproj.CopyComplete
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\obj\Debug\net7.0\HTTPClient.dll
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\obj\Debug\net7.0\refint\HTTPClient.dll
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\obj\Debug\net7.0\HTTPClient.pdb
+C:\Users\alina\OneDrive\Skrivebord\Via- dnp,ads,nes\dnp\Assignment\Assignment1-Dnp\HTTPClient\obj\Debug\net7.0\ref\HTTPClient.dll
